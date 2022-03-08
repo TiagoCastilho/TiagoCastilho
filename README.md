@@ -9,7 +9,7 @@
   📚 Atualmente estou estudando Javascript.
 </p>
 <p align="left">
-  ⚡ Após 12 anos no ramo de seguros, dei uma pausa em minha vida profissional para seguir meu sonho. Estou me dedicando inteiramente aos estudos com o objetivo inicial de me tornar um programador front-end.
+  ⚡ Após 12 anos no ramo de seguros, dei uma pausa em minha vida profissional para seguir meu sonho em ser programador. Hoje estou me dedicando inteiramente aos estudos com o objetivo inicial de me tornar um programador front-end.
 </p>
 <p align="left">
   🌎 Atualmente resido em Volta Redonda-RJ
