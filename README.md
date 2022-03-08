@@ -1,9 +1,12 @@
 ### Olá! Eu sou Tiago Castilho
 
-### ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TiagoCastilho&repo=TiagoCastilho&countColorcountColor)
+
 
 <p align="left">
   🔎 Buscando novas oportunidades...
+</p>
+<p align="left">
+  👋🏽 Sou autodidata adquirindo habilidades de desenvolvimento.
 </p>
 <p align="left">
   📚 Atualmente estou estudando Javascript.
@@ -35,7 +38,7 @@
 </div>
   
 <h3 align="center">  
-  Certificações
+  Certificações ✔️
 </h3>
   
 <div align="center">
@@ -48,7 +51,7 @@
 </div>
   
 <h3 align="center">  
-  Cursos em andamento
+  Cursos em andamento ⏳
 </h3>
   
 <div align="center">
