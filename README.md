@@ -48,10 +48,6 @@
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_7009577.jpg" target="_blank">![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_7009577.jpg" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)</a>
 <br/>
-  <p align="center">
-    (Clique para acessar os certificados)
-  </p>
-  
 </div>
   
 <h3 align="center">  
