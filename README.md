@@ -1,6 +1,6 @@
 ### Olá! Eu sou Tiago Castilho
 
-### ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TiagoCastilho&repo=TiagoCastilho&countColorcountColor)
+<img src="https://komarev.com/ghpvc/?username=TiagoCastilho&label=Profile%20views&color=0e75b6&style=flat" width="120px" alt="Tiago Castilho" />
 
 <p align="left">
   🔎 Buscando novas oportunidades...
