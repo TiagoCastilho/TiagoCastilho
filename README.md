@@ -1,6 +1,6 @@
 ### Olá! Eu sou Tiago Castilho
 
-
+### ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TiagoCastilho&repo=TiagoCastilho&countColorcountColor)
 
 <p align="left">
   🔎 Buscando novas oportunidades...
