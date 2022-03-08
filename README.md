@@ -3,10 +3,10 @@
 <img src="https://komarev.com/ghpvc/?username=TiagoCastilho&label=Profile%20views&color=0e75b6&style=flat" width="120px" alt="Tiago Castilho" />
 
 <p align="left">
-  👋🏽 Sou autodidata adquirindo habilidades de desenvolvimento.
+  👋🏽 Sou autodidata e entusiasta da programação buscando adquirir habilidades de desenvolvimento.
 </p>
 <p align="left">
-  🔎 Buscando novas oportunidades...
+  🔎 Procurando por novas oportunidades...
 </p>
 <p align="left">
   📚 Atualmente estou estudando Javascript.
