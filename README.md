@@ -6,7 +6,7 @@
   👋🏽 Sou autodidata e entusiasta da programação buscando adquirir habilidades de desenvolvimento.
 </p>
 <p align="left">
-  📚 Atualmente estou estudando Javascript.
+  📚 Atualmente estou estudando React.
 </p>
 <p align="left">
   🔎 Procurando por novas oportunidades...
