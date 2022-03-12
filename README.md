@@ -1,7 +1,5 @@
 ### Olá! Eu sou Tiago Castilho
 
-<img src="https://komarev.com/ghpvc/?username=TiagoCastilho&label=Profile%20views&color=0e75b6&style=flat" width="120px" alt="Tiago Castilho" />
-
 <p align="left">
   👋🏽 Sou autodidata e entusiasta da programação buscando adquirir habilidades de desenvolvimento.
 </p>
