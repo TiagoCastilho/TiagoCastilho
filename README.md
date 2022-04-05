@@ -55,11 +55,3 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
 </div>
 <br/>
 <br/>
-
-<div align="center">
-  
-  <a href="https://github.com/TiagoCastilho" alt="Git Graph">
-    <img height="280em" width="auto" align="center" src="https://activity-graph.herokuapp.com/graph?username=TiagoCastilho&theme=react-dark" />
-  </a>
-  
-</div>
