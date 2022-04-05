@@ -13,6 +13,10 @@
   ⚡ Após 12 anos no ramo de seguros, dei uma pausa em minha vida profissional para seguir meu sonho de ser programador. Hoje estou me dedicando inteiramente aos estudos com o objetivo inicial de me tornar um programador front-end.
 </p>
 <br/>
+<p>
+  <i>"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!" <br/>
+    Mario Sergio Cortella</i>
+</p>
 
 ## Social
 
