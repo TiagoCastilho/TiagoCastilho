@@ -1,13 +1,10 @@
 ### Olá! Sou Tiago Castilho
 <a href="https://github.com/TiagoCastilho"> <img align="right" alt="GIF" width="300px" height="187px" src="https://github.com/TiagoCastilho/TiagoCastilho/blob/main/.github/workflows/1.gif" /> </a>
 <p align="left">
-  👋🏽 Sou autodidata e entusiasta da programação buscando adquirir habilidades de desenvolvimento.
+  👋🏽 Entusiasta da programação buscando adquirir habilidades de desenvolvimento.
 </p>
 <p align="left">
-  📚 Atualmente estou estudando React.
-</p>
-<p align="left">
-  🔎 Procurando por novas oportunidades...
+  📚 Atualmente estou estudando ReactJS.
 </p>
 <p align="left">
   ⚡ Após 12 anos no ramo de seguros, dei uma pausa em minha vida profissional para seguir meu sonho de ser programador. Hoje estou me dedicando inteiramente aos estudos com o objetivo inicial de me tornar um programador front-end.
