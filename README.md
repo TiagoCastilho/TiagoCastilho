@@ -52,6 +52,12 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
 ##  
 
 <div align="center">
+
+  ![Snake animation](https://github.com/TiagoCastilho/TiagoCastilho/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
 <br/>
   <a href="https://github.com/TiagoCastilho">
   <img height="158em" src="https://github-readme-stats.vercel.app/api?username=TiagoCastilho&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
