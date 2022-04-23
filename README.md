@@ -54,8 +54,7 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
 <div align="center">
 <br/>
   <a href="https://github.com/TiagoCastilho">
-  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=TiagoCastilho&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCastilho&layout=compact&langs_count=7&theme=white"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TiagoCastilho&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
