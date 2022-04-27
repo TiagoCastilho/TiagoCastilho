@@ -18,6 +18,8 @@
     Mario Sergio Cortella</i>
 </p>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TiagoCastilho.TiagoCastilho)
+
 ## Social
 
 Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
