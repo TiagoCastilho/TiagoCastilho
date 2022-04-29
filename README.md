@@ -4,7 +4,7 @@
   👋🏽 Entusiasta da programação buscando adquirir habilidades de desenvolvimento.
 </p>
 <p align="left">
-  📚 Atualmente estou estudando ReactJS.
+  📚 Atualmente estou aprimorando ReactJS.
 </p>
 <p align="left">
   🔎 Procurando por novas oportunidades...
@@ -38,16 +38,18 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_110727.jpg" target="_blank">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_110727.jpg" target="_blank">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_8583567.jpg" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
+  <a href="https://alunos.b7web.com.br/media/certificates/certificado_5525205.jpg" target="_blank">![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_7009577.jpg" target="_blank">![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_7009577.jpg" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)</a>
 <br/>
 </div>
   
-## Habilidade em desenvolvimento
+## Habilidades em desenvolvimento ou em aprimoramento
   
 <div>
   
-  <a href="" target="_blank">![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react)</a>
+  <a href="https://alunos.b7web.com.br/media/certificates/certificado_5525205.jpg" target="_blank">![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react)</a>
+  <a href="" target="_blank">![Bootstrap](https://img.shields.io/badge/-Bootstrap-69529c?style=for-the-badge&logo=Bootstrap&logoColor=white)</a>
   
 </div>
 
@@ -56,7 +58,6 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
 <div>
   
   <a href="" target="_blank">![Sass](https://img.shields.io/badge/-SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white)</a>
-  <a href="" target="_blank">![Bootstrap](https://img.shields.io/badge/-Bootstrap-69529c?style=for-the-badge&logo=Bootstrap&logoColor=white)</a>
   <a href="" target="_blank">![ReactNative](https://img.shields.io/badge/-react%20Native-black?style=for-the-badge&logo=react&logoColor=69529c)</a>
   <a href="" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white)</a>
   
