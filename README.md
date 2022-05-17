@@ -4,7 +4,7 @@
   👋🏽 Entusiasta da programação buscando adquirir habilidades de desenvolvimento.
 </p>
 <p align="left">
-  📚 Atualmente estou estudando Sass.
+  📚 Atualmente estou estudando Bootstrap.
 </p>
 <p align="left">
   🔎 Procurando por novas oportunidades...
@@ -31,7 +31,7 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
   <a href="https://join.skype.com/invite/AiHpT8nCVpff" target="_blank"><img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
 </div>
 
-## Habilidades
+## Habilidades e Ferramentas
   
 <div>
   
@@ -39,6 +39,7 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_110727.jpg" target="_blank">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_8583567.jpg" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_5525205.jpg" target="_blank">![React](https://img.shields.io/badge/-react-black?style=for-the-badge&logo=react)</a>
+  <a href="https://alunos.b7web.com.br/media/certificates/certificado_4448290.jpg" target="_blank">![Sass](https://img.shields.io/badge/-SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_7009577.jpg" target="_blank">![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)</a>
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_7009577.jpg" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)</a>
 <br/>
@@ -49,7 +50,7 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
 <div>
   
   <a href="" target="_blank">![Bootstrap](https://img.shields.io/badge/-Bootstrap-69529c?style=for-the-badge&logo=Bootstrap&logoColor=white)</a>
-  <a href="" target="_blank">![Sass](https://img.shields.io/badge/-SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white)</a>
+  
   
 </div>
 
