@@ -4,7 +4,7 @@
   👋🏽 Entusiasta da programação buscando adquirir habilidades de desenvolvimento.
 </p>
 <p align="left">
-  📚 Atualmente estou aprimorando ReactJS.
+  📚 Atualmente estou estudando Sass.
 </p>
 <p align="left">
   🔎 Procurando por novas oportunidades...
