@@ -1,7 +1,7 @@
 ### Olá! Sou Tiago Castilho
 <a href="https://github.com/TiagoCastilho"> <img align="right" alt="GIF" width="300px" height="187px" src="https://github.com/TiagoCastilho/TiagoCastilho/blob/main/.github/workflows/1.gif" /> </a>
 <p align="left">
-  👋🏽 Entusiasta da programação buscando adquirir habilidades de desenvolvimento.
+  👋🏽 Entusiasta da programação buscando sempre adquirir habilidades de desenvolvimento.
 </p>
 <p align="left">
   📚 Atualmente estou estudando Bootstrap.
@@ -9,14 +9,7 @@
 <p align="left">
   🔎 Procurando por novas oportunidades...
 </p>
-<p align="left">
-  ⚡ Após 12 anos no ramo de seguros, dei uma pausa em minha vida profissional para seguir meu sonho de ser programador.
-</p>
 <br/>
-<p>
-  <i>"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!" <br/>
-    Mario Sergio Cortella</i>
-</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TiagoCastilho.TiagoCastilho)
 
