@@ -1,5 +1,5 @@
 ### Olá! Sou Tiago Castilho
-<a href="https://github.com/TiagoCastilho"> <img align="right" alt="GIF" width="300px" height="187px" src="https://github.com/TiagoCastilho/TiagoCastilho/blob/main/.github/workflows/1.gif" /> </a>
+
 <p align="left">
   👋🏽 Entusiasta da programação buscando sempre adquirir habilidades de desenvolvimento.
 </p>
