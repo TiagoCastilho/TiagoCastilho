@@ -6,9 +6,6 @@
 <p align="left">
   📚 Atualmente estou estudando Bootstrap.
 </p>
-<p align="left">
-  🔎 Procurando por novas oportunidades...
-</p>
 <br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TiagoCastilho.TiagoCastilho)
