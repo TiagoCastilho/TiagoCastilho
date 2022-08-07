@@ -39,7 +39,7 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
   
 <div>
   
-  <a href="" target="_blank">![Bootstrap](https://img.shields.io/badge/-Bootstrap-69529c?style=for-the-badge&logo=Bootstrap&logoColor=white)</a>
+  <a href="" target="_blank">![Wordpress](https://img.shields.io/badge/-wordpress-26596F?style=for-the-badge&logo=wordpress&logoColor=white)</a>
   
   
 </div>
@@ -48,6 +48,7 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
 
 <div>
   
+  <a href="" target="_blank">![Bootstrap](https://img.shields.io/badge/-Bootstrap-69529c?style=for-the-badge&logo=Bootstrap&logoColor=white)</a>
   <a href="" target="_blank">![ReactNative](https://img.shields.io/badge/-react%20Native-black?style=for-the-badge&logo=react&logoColor=69529c)</a>
   <a href="" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=white)</a>
   
