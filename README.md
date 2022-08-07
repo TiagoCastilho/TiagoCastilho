@@ -41,6 +41,7 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
   
   <a href="" target="_blank">![Wordpress](https://img.shields.io/badge/-wordpress-26596F?style=for-the-badge&logo=wordpress&logoColor=white)</a>
   <a href="" target="_blank">![Elementor](https://img.shields.io/badge/-elementor-8D0039?style=for-the-badge&logo=elementor&logoColor=white)</a>
+  <a href="" target="_blank">![Crocoblock](https://custom-icon-badges.herokuapp.com/badge/-crocoblock-242F44?style=for-the-badge&logo=crocoblock&logoColor=white)</a>
   
 </div>
 
