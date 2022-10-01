@@ -3,9 +3,6 @@
 <p align="left">
   👋🏽 Entusiasta da programação buscando sempre adquirir habilidades de desenvolvimento.
 </p>
-<p align="left">
-  📚 Atualmente estou estudando Bootstrap.
-</p>
 <br/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TiagoCastilho.TiagoCastilho)
