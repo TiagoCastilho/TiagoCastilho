@@ -15,7 +15,6 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
   <a href="https://www.instagram.com/tiagocastilho_bm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:tiagocastilho_bm@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagocastilhobm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://join.skype.com/invite/AiHpT8nCVpff" target="_blank"><img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
 </div>
 
 ## Habilidades e Ferramentas
