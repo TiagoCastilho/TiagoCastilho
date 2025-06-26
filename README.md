@@ -33,12 +33,3 @@ Me siga nas redes para acompanhar o meu progresso ou entrar em contato:
   <a href="https://alunos.b7web.com.br/media/certificates/certificado_7009577.jpg" target="_blank">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)</a>
 <br/>
 </div>
-
-##  
-
-<div align="center">
-<br/>
-  <a href="https://github.com/TiagoCastilho">
-  <img height="159em" src="https://github-readme-stats.vercel.app/api?username=TiagoCastilho&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="159em" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoCastilho&theme=black-ice&date_format=j%20M%5B%20Y%5D&background=FFFFFF&border=CCCCCC&stroke=CCCCCC&ring=4F94EF&fire=4C71F2&currStreakNum=434D58&sideNums=434D58&currStreakLabel=4F94EF&sideLabels=434D58&dates=434D58"/>
-</div>
